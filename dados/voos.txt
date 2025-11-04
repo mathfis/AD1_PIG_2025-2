@@ -1,4 +1,4 @@
-VG1001;A320;São Paulo;Rio de Janeiro;2025-03-15 08:00
+VG1001;A320;São Paulo;Rio de Janeiro;2025-03-15 08:00;9D:123.456.789-00
 VG1002;B737;Rio de Janeiro;Brasília;2025-03-15 14:30
 VG1003;E190;São Paulo;Salvador;2025-03-16 10:15
 VG1004;A319;Brasília;Fortaleza;2025-03-16 16:45
